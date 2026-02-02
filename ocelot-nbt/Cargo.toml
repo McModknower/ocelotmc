@@ -2,3 +2,7 @@
 name = "ocelot-nbt"
 version.workspace = true
 edition.workspace = true
+
+[dependencies]
+nom.workspace = true
+thiserror.workspace = true
